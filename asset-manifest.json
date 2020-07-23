@@ -3,8 +3,8 @@
     "static/js/0.431fde74.chunk.js": "/social-berrr/static/js/0.431fde74.chunk.js",
     "static/js/0.431fde74.chunk.js.map": "/social-berrr/static/js/0.431fde74.chunk.js.map",
     "main.css": "/social-berrr/static/css/main.72d1300f.chunk.css",
-    "main.js": "/social-berrr/static/js/main.637d30a8.chunk.js",
-    "main.js.map": "/social-berrr/static/js/main.637d30a8.chunk.js.map",
+    "main.js": "/social-berrr/static/js/main.cfcee11e.chunk.js",
+    "main.js.map": "/social-berrr/static/js/main.cfcee11e.chunk.js.map",
     "runtime-main.js": "/social-berrr/static/js/runtime-main.33a12d03.js",
     "runtime-main.js.map": "/social-berrr/static/js/runtime-main.33a12d03.js.map",
     "static/js/3.cabcaa8b.chunk.js": "/social-berrr/static/js/3.cabcaa8b.chunk.js",
@@ -22,7 +22,7 @@
     "static/js/7.03102620.chunk.js": "/social-berrr/static/js/7.03102620.chunk.js",
     "static/js/7.03102620.chunk.js.map": "/social-berrr/static/js/7.03102620.chunk.js.map",
     "index.html": "/social-berrr/index.html",
-    "precache-manifest.864c59f7ac8ba975861b5e21c04d215c.js": "/social-berrr/precache-manifest.864c59f7ac8ba975861b5e21c04d215c.js",
+    "precache-manifest.36ca0b6a4fb42d79e0c5477f88340fed.js": "/social-berrr/precache-manifest.36ca0b6a4fb42d79e0c5477f88340fed.js",
     "service-worker.js": "/social-berrr/service-worker.js",
     "static/css/4.ab5e798b.chunk.css.map": "/social-berrr/static/css/4.ab5e798b.chunk.css.map",
     "static/css/5.32e39245.chunk.css.map": "/social-berrr/static/css/5.32e39245.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.33a12d03.js",
     "static/js/3.cabcaa8b.chunk.js",
     "static/css/main.72d1300f.chunk.css",
-    "static/js/main.637d30a8.chunk.js"
+    "static/js/main.cfcee11e.chunk.js"
   ]
 }

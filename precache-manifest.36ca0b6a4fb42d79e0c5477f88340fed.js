@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5889327fd163fe51af8442f85e8c8e36",
+    "revision": "5eb614b664af8081a37287eef7c428b4",
     "url": "/social-berrr/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/social-berrr/static/css/7.6674f145.chunk.css"
   },
   {
-    "revision": "ca4e9fbfe5439ebe7847",
+    "revision": "1253f39bb8fe9613edd1",
     "url": "/social-berrr/static/css/main.72d1300f.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/social-berrr/static/js/7.03102620.chunk.js"
   },
   {
-    "revision": "ca4e9fbfe5439ebe7847",
-    "url": "/social-berrr/static/js/main.637d30a8.chunk.js"
+    "revision": "1253f39bb8fe9613edd1",
+    "url": "/social-berrr/static/js/main.cfcee11e.chunk.js"
   },
   {
     "revision": "53efd4b27838d1a98519",
