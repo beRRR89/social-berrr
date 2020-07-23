@@ -1,0 +1,19 @@
+.nav {
+	background-color: #3cffc7;
+	grid-area: nav;
+	padding: 20px;
+
+}
+
+.item {
+	color: #fff;
+	a {
+		color: #fff;
+		text-decoration: none;
+		font-size: 18px;
+	}
+
+	.active {
+		color: goldenrod;
+	}
+}
