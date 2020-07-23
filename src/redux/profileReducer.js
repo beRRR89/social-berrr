@@ -4,7 +4,6 @@ const ADD_POST = 'social-berrr/profile/ADD-POST';
 const DELETE_POST = 'social-berrr/profile/DELETE-POST';
 const SET_USER_PROFILE = 'social-berrr/profile/SET-USER-PROFILE';
 const SET_USER_STATUS = 'social-berrr/profile/SET-USER-STATUS';
-const UPDATE_NEW_POST_TEXT = 'social-berrr/profile/UPDATE-NEW-POST-TEXT';
 
 const initialState = {
 	profile: null,
