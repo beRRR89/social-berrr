@@ -1,7 +1,7 @@
 import React, {Suspense} from 'react';
 import Navbar from "./components/Navbar";
 import './App.scss';
-import {BrowserRouter, Route} from "react-router-dom";
+import {HashRouter, Route} from "react-router-dom";
 import HeaderContainer from "./components/Header/HeaderContainer";
 import {connect, Provider} from "react-redux";
 import {withRouter} from "react-router";
@@ -55,11 +55,11 @@ const AppContainer = compose(
 
 const MainApp = (props) => {
 	return (
-		<BrowserRouter basename={process.env.PUBLIC_URL}>
+		<HashRouter basename={process.env.PUBLIC_URL}>
 			<Provider store={store}>
 				<AppContainer/>
 			</Provider>
-		</BrowserRouter>
+		</HashRouter>
 	)
 }
 
