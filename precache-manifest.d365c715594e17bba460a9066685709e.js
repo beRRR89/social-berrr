@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5eb614b664af8081a37287eef7c428b4",
+    "revision": "b47138f2e12c5b62e1372d3a3e81257c",
     "url": "/social-berrr/index.html"
   },
   {
@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/social-berrr/static/css/4.ab5e798b.chunk.css"
   },
   {
-    "revision": "16280efd2a1893409833",
+    "revision": "2f027c1fc942250c09e2",
     "url": "/social-berrr/static/css/5.32e39245.chunk.css"
   },
   {
-    "revision": "840fa751ce2ff7c5ffc5",
+    "revision": "35eec286cc55bb38d067",
     "url": "/social-berrr/static/css/6.b5b32d45.chunk.css"
   },
   {
@@ -20,44 +20,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/social-berrr/static/css/7.6674f145.chunk.css"
   },
   {
-    "revision": "1253f39bb8fe9613edd1",
+    "revision": "c626d50ba37980084a56",
     "url": "/social-berrr/static/css/main.72d1300f.chunk.css"
   },
   {
-    "revision": "859aa26b6acc4603afc8",
-    "url": "/social-berrr/static/js/0.431fde74.chunk.js"
+    "revision": "08cd8752078e15877fc1",
+    "url": "/social-berrr/static/js/0.22dc85f6.chunk.js"
   },
   {
-    "revision": "243e9eea98e909f31a90",
-    "url": "/social-berrr/static/js/3.cabcaa8b.chunk.js"
+    "revision": "9fd283e0021cdfeb5084",
+    "url": "/social-berrr/static/js/3.135abdb1.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/social-berrr/static/js/3.cabcaa8b.chunk.js.LICENSE.txt"
+    "url": "/social-berrr/static/js/3.135abdb1.chunk.js.LICENSE.txt"
   },
   {
     "revision": "91ed1f5f2613c011c21f",
     "url": "/social-berrr/static/js/4.bf14bdfc.chunk.js"
   },
   {
-    "revision": "16280efd2a1893409833",
-    "url": "/social-berrr/static/js/5.4940dfe5.chunk.js"
+    "revision": "2f027c1fc942250c09e2",
+    "url": "/social-berrr/static/js/5.62e8810b.chunk.js"
   },
   {
-    "revision": "840fa751ce2ff7c5ffc5",
-    "url": "/social-berrr/static/js/6.24e283ee.chunk.js"
+    "revision": "35eec286cc55bb38d067",
+    "url": "/social-berrr/static/js/6.51e4d4dc.chunk.js"
   },
   {
     "revision": "93346a22d8f120815c6d",
     "url": "/social-berrr/static/js/7.03102620.chunk.js"
   },
   {
-    "revision": "1253f39bb8fe9613edd1",
-    "url": "/social-berrr/static/js/main.cfcee11e.chunk.js"
+    "revision": "c626d50ba37980084a56",
+    "url": "/social-berrr/static/js/main.cae45228.chunk.js"
   },
   {
-    "revision": "53efd4b27838d1a98519",
-    "url": "/social-berrr/static/js/runtime-main.33a12d03.js"
+    "revision": "5220854d3a28448c2b03",
+    "url": "/social-berrr/static/js/runtime-main.7cc6e278.js"
   },
   {
     "revision": "57c49ee888bd98759c281c2eff692562",
