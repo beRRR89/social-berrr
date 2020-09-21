@@ -18,14 +18,15 @@ class Login extends Component {
 		return (
 			<div>
 				<h1>Login</h1>
-				<LoginForm onSubmit={this.onSubmit}/>
+				<LoginForm onSubmit={this.onSubmit} captchaUrl={this.props.captchaUrl}/>
 			</div>
 		);
 	}
 }
 const mapStateToProps = (state) => {
 	return {
-		isAuth: state.auth.isAuth
+		isAuth: state.auth.isAuth,
+		captchaUrl: state.auth.captchaUrl
 	}
 }
 export default connect(mapStateToProps, {login})(Login);

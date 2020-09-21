@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import styles from "./Pagination.module.scss";
+import cn from "classnames";
 
 const Pagination = ({currentPage, totalItemsCount, pageSize, onPageChanged, portionSize}) => {
 	let pagesCount = Math.ceil(totalItemsCount / pageSize);
@@ -22,7 +23,9 @@ const Pagination = ({currentPage, totalItemsCount, pageSize, onPageChanged, port
 						.map((p, i) => {
 						return (
 							<span onClick={() => onPageChanged(p)}
-								  className={currentPage === p ? styles.selectedPage : ""} key={i}>{p}</span>
+								  className={cn(styles.pageNumber, {
+									  [styles.selectedPage] : currentPage === p
+								  })} key={i}>{p}</span>
 						)
 					})
 				}

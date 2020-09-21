@@ -2,12 +2,12 @@
 	"name": "social-berrr",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://berrr89.github.io/social-berrr",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.4.0",
 		"@testing-library/user-event": "^7.2.1",
 		"axios": "^0.19.2",
+		"classnames": "^2.2.6",
 		"create-react-component-folder": "^0.1.30",
 		"lodash": "^4.17.19",
 		"node-sass": "^4.13.1",
